@@ -84,7 +84,7 @@ cv2.destroyAllWindows()
 ### Input Grayscale Image and Color Image
 ![image](https://github.com/SamyukthaSreenivasan/Histogram-of-an-images/assets/119475703/69175ce1-c529-4a2a-b4e6-638e6836d3f3)
 
-![image](https://github.com/SamyukthaSreenivasan/Histogram-of-an-images/assets/119475703/1dba056e-afca-457b-a793-40f862501b39)
+![image](https://github.com/SamyukthaSreenivasan/Histogram-of-an-images/assets/119475703/c039cb26-80d1-404d-9f72-d319b4fc8282)
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![image](https://github.com/SamyukthaSreenivasan/Histogram-of-an-images/assets/119475703/0e13bbb8-4167-424a-bc83-919ab0284227)
