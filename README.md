@@ -25,7 +25,7 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-```python
+
 # Developed By: Samyuktha S
 # Register Number: 212222240089
 Grayscale image and Color image
@@ -78,7 +78,7 @@ cv2.imshow("Equalized Image",equ)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-```
+
 ## Output:
 ### Input Grayscale Image and Color Image
 
